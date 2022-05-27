@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Mike Shields</h1>
   <h2>Web Developer</h2>
@@ -46,6 +45,8 @@ I discovered a passion for programming through my current role as a Museum Galle
 </div>
 
 ## My Stats
+
+<img src="https://www.codewars.com/users/mike-shields/badges/large" alt="CodeWars Badge" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-shields-dev&theme=radical)](https://git.io/streak-stats)\
