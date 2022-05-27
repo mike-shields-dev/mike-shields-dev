@@ -17,8 +17,11 @@
 
 ## About Me
 
-Hi there! I'm Mike and I'm working towards becoming a Web Developer. I'm currently studying Full Stack Web Development at 
-[Manchester Codes](https://www.manchestercodes.com/). I discovered a passion for programming through my current role as a Museum Gallery Technician at the [National Football Museum](https://www.nationalfootballmuseum.com/) where I work as part of a small team maintaining the museum gallery's Audio Visual / IT Systems. 
+Hi there! I'm Mike and I'm working towards becoming a Web Developer.\
+I'm currently studying Full Stack Web Development at [Manchester Codes](https://www.manchestercodes.com/).\
+I also tech volunteer with [CodeYourFuture](https://codeyourfuture.io/).\
+
+I discovered a passion for programming through my current role as a Museum Gallery Technician at the [National Football Museum](https://www.nationalfootballmuseum.com/) where I work as part of a small team maintaining the museum gallery's Audio Visual / IT Systems. 
 
 ### Hobbies & Interests
 
