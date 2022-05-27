@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Mike Shields</h1>
-  <h2>Web Developer</h2>
+  <h1>Mike Shields | Web Developer</h1>
 </div>
 
 <div id="badges" align="center">
