@@ -19,7 +19,7 @@
 
 Hi there! I'm Mike and I'm working towards becoming a Web Developer.\
 I'm currently studying Full Stack Web Development at [Manchester Codes](https://www.manchestercodes.com/).\
-I also tech volunteer with [CodeYourFuture](https://codeyourfuture.io/).\
+I also tech volunteer with [CodeYourFuture North West](https://codeyourfuture.io/north-west/).
 
 I discovered a passion for programming through my current role as a Museum Gallery Technician at the [National Football Museum](https://www.nationalfootballmuseum.com/) where I work as part of a small team maintaining the museum gallery's Audio Visual / IT Systems. 
 
@@ -33,6 +33,7 @@ I discovered a passion for programming through my current role as a Museum Galle
 ---
 
 ## 🛠️ My Tool Kit 🧰
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,9 +45,8 @@ I discovered a passion for programming through my current role as a Museum Galle
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
 ## My Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-shields-dev&theme=radical)](https://git.io/streak-stats)\
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-shields-dev&theme=radical)](https://git.io/streak-stats)\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
