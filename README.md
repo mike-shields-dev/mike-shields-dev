@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Mike Shields | Web Developer</h1>
+  <img src="https://github.com/mike-shields-dev/mike-shields-dev/blob/266fa028ed46aeb2ae2ec175b0b25cbd02f34c50/header.png" />
+  <h1>Web Developer</h1>
 </div>
 
 <div id="badges" align="center">
