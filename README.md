@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/mike-shields-dev/mike-shields-dev/blob/266fa028ed46aeb2ae2ec175b0b25cbd02f34c50/header.png" />
-  <h1>Web Developer</h1>
+  <h1>Michael Shields</h1>
+  <img src="https://github.com/mike-shields-dev/mike-shields-dev/blob/main/kindpng_1511892.png" />
+  <h2>Web Developer</h2>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +17,7 @@
 
 ## About Me
 
-Hi there! I'm Mike and I'm working towards becoming a Web Developer.\
+Hey! I'm Michael and I'm working towards becoming a professional Web Developer.\
 I'm currently studying Full Stack Web Development at [Manchester Codes](https://www.manchestercodes.com/).\
 I also tech volunteer with [CodeYourFuture North West](https://codeyourfuture.io/north-west/).
 
