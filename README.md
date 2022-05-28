@@ -46,8 +46,12 @@ I discovered a passion for programming through my current role as a Museum Galle
 
 ## My Stats
 
-<img src="https://www.codewars.com/users/mike-shields/badges/large" alt="CodeWars Badge" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-shields-dev&theme=radical)](https://git.io/streak-stats)\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-shields-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.codewars.com/users/mike-shields">
+  <img src="https://www.codewars.com/users/mike-shields/badges/large" alt="CodeWars Badge" />
+</a>
+
+
