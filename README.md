@@ -29,6 +29,7 @@ I discovered a passion for programming through my current role as a Museum Galle
 - Healthy Eating/Cooking
 - Outdoor Pursuits
 - Science, Technology & Nature
+- Electronic Music / Music Production
 
 ---
 
