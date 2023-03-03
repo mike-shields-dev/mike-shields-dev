@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Michael Shields</h1>
-  <img src="https://github.com/mike-shields-dev/mike-shields-dev/blob/main/kindpng_1511892.png" />
-  <h2>Web Developer</h2>
+  <h2>Software Developer</h2>
 </div>
 
 <div id="badges" align="center">
@@ -17,15 +16,11 @@
 
 ## About Me
 
-Hey! I'm Michael and I'm working towards becoming a professional Web Developer.\
-I'm currently studying Full Stack Web Development at [Manchester Codes](https://www.manchestercodes.com/).\
-I also tech volunteer with [CodeYourFuture North West](https://codeyourfuture.io/north-west/).
-
-I discovered a passion for programming through my current role as a Museum Gallery Technician at the [National Football Museum](https://www.nationalfootballmuseum.com/) where I work as part of a small team maintaining the museum gallery's Audio Visual / IT Systems. 
+Hey! I'm Michael and I'm working towards becoming a professional Software Developer / Engineer.\
+I'm a graduate of the Software Engineering Bootcamp and Education Team Member at [Command Shift](https://www.commandshift.co/).
 
 ### Hobbies & Interests
 
-- Coding
 - Healthy Eating/Cooking
 - Outdoor Pursuits
 - Science, Technology & Nature
