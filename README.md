@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Michael Shields</h1>
   <h2>Full Stack Web Developer</h2>
+  <h3>JavaScript | React | NodeJS</h3>
 </div>
 
 <div id="badges" align="center">
@@ -13,8 +14,7 @@
 
 ## About Me
 
-Hey! I'm Michael and I'm working towards becoming a professional Software Developer / Engineer.\
-I'm a graduate of the Software Engineering Bootcamp and Education Team Member at [Command Shift](https://www.commandshift.co/).
+Software Engineering boot camp graduate and Tutor at [Command Shift](https://www.commandshift.co/). I like using React to build frontend UIs and NodeJs for backend solutions. Currently learning Typescript and NextJS.
 
 ### Hobbies & Interests
 
