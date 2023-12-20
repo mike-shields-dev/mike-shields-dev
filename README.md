@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Michael Shields</h1>
-  <h2>Full Stack Web Developer</h2>
-  <h3>JavaScript | React | NodeJS</h3>
+  <h2>Software Developer</h2>
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +13,7 @@
 
 ## About Me
 
-Software Engineering boot camp graduate and Tutor at [Command Shift](https://www.commandshift.co/). I like using React to build frontend UIs and NodeJs for backend solutions. Currently learning Typescript and NextJS.
+BSc in Software Engineering student and Software Engineering boot camp graduate/mentor at [Command Shift](https://www.commandshift.co/). Exploring technologies and languages to become a professional Software Developer/Engineer.
 
 ### Hobbies & Interests
 
@@ -24,22 +23,6 @@ Software Engineering boot camp graduate and Tutor at [Command Shift](https://www
 - Electronic Music / Music Production
 
 ---
-
-## 🛠️ My Tool Kit 🧰
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-</div>
 
 ## My Stats
 
